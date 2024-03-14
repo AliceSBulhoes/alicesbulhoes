@@ -1,6 +1,6 @@
 ### Oi, Tudo bem? 👋
 ## Sou Alice Bulhões,
-## Atualmente, Aluna na Fiap de Engenharia de Software, com os sonho de me tornar uma desenvolvedora de jogos! Não é a melhor coisa trabalhar com o que gostamos? 
+## Atualmente, Aluna na Fiap de Engenharia de Software, com o sonho de me tornar uma desenvolvedora de jogos! Não é a melhor coisa trabalhar com o que gostamos? 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
